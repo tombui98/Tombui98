@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Logistics
+- 🔭 I’m currently working on ... A Data Analytics Boot Camp
 - 🌱 I’m currently learning ... Data Analytics
 - 👯 I’m looking to collaborate on ... Data Analytics
 - 🤔 I’m looking for help with ... Data Analytics
