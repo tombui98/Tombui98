@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Minh (Tom) Bui</h1>
-<h3 align="center">I am a data analysis enthusiast</h3>
+<h3 align="center">I am a Data Analysis Enthusiast</h3>
 
 - 🔭 I’m currently working on [Data Analytics Boot Camp](https://bootcamp.learn.utoronto.ca/data/)
 
