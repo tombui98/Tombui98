@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuan Minh (Tom) Bui</h1>
 <h3 align="center">I am a Data Analysis Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tombui98&label=Profile%20views&color=0e75b6&style=flat" alt="tombui98" /> </p>
 
