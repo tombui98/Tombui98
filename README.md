@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tuan Minh (Tom) Bui</h1>
-<h3 align="center">I am a Data Analysis Enthusiast</h3>
+<h3 align="center">I am a Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2022/09/Front-End-Developers.gif">
 
 
